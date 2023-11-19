@@ -1,0 +1,15 @@
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\bin\Debug\net6.0\Cours c#.exe
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\bin\Debug\net6.0\Cours c#.deps.json
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\bin\Debug\net6.0\Cours c#.runtimeconfig.json
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\bin\Debug\net6.0\Cours c#.dll
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\bin\Debug\net6.0\Cours c#.pdb
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\obj\Debug\net6.0\Cours c#.csproj.AssemblyReference.cache
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\obj\Debug\net6.0\Cours c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\obj\Debug\net6.0\Cours c#.AssemblyInfoInputs.cache
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\obj\Debug\net6.0\Cours c#.AssemblyInfo.cs
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\obj\Debug\net6.0\Cours c#.csproj.CoreCompileInputs.cache
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\obj\Debug\net6.0\Cours c#.dll
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\obj\Debug\net6.0\refint\Cours c#.dll
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\obj\Debug\net6.0\Cours c#.pdb
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\obj\Debug\net6.0\Cours c#.genruntimeconfig.cache
+D:\Projets Info\Cours Maxime\Cours c#\Cours c#\obj\Debug\net6.0\ref\Cours c#.dll
