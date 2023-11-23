@@ -1,32 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projets Info\\Cours Maxime\\Cours c#\\Cours c#\\Cours c#.csproj": {}
+    "F:\\PROJECTS\\Cours-Max\\Cours c#\\Cours c#.csproj": {}
   },
   "projects": {
-    "D:\\Projets Info\\Cours Maxime\\Cours c#\\Cours c#\\Cours c#.csproj": {
+    "F:\\PROJECTS\\Cours-Max\\Cours c#\\Cours c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projets Info\\Cours Maxime\\Cours c#\\Cours c#\\Cours c#.csproj",
+        "projectUniqueName": "F:\\PROJECTS\\Cours-Max\\Cours c#\\Cours c#.csproj",
         "projectName": "Cours c#",
-        "projectPath": "D:\\Projets Info\\Cours Maxime\\Cours c#\\Cours c#\\Cours c#.csproj",
-        "packagesPath": "C:\\Users\\Kheta\\.nuget\\packages\\",
-        "outputPath": "D:\\Projets Info\\Cours Maxime\\Cours c#\\Cours c#\\obj\\",
+        "projectPath": "F:\\PROJECTS\\Cours-Max\\Cours c#\\Cours c#.csproj",
+        "packagesPath": "C:\\Users\\Khetamaru\\.nuget\\packages\\",
+        "outputPath": "F:\\PROJECTS\\Cours-Max\\Cours c#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kheta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Khetamaru\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,8 +51,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
         }
       }
     }

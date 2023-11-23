@@ -1,0 +1,5 @@
+F:\PROJECTS\Cours-Max\Cours c#\obj\Debug\net5.0\Cours c#.csproj.AssemblyReference.cache
+F:\PROJECTS\Cours-Max\Cours c#\obj\Debug\net5.0\Cours c#.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJECTS\Cours-Max\Cours c#\obj\Debug\net5.0\Cours c#.AssemblyInfoInputs.cache
+F:\PROJECTS\Cours-Max\Cours c#\obj\Debug\net5.0\Cours c#.AssemblyInfo.cs
+F:\PROJECTS\Cours-Max\Cours c#\obj\Debug\net5.0\Cours c#.csproj.CoreCompileInputs.cache
